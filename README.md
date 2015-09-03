@@ -1,10 +1,10 @@
 # Map-Factory
 Worldbuilding Stack Exchange's map-generation software
 
-# Objective
+### Objective
 
 
-# License
+### License
 
 Map-Factory uses a friendly license - the Apache 2.0 license:
 
