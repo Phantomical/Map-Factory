@@ -1,6 +1,13 @@
 # Map-Factory
 Worldbuilding Stack Exchange's map-generation software
 
+# Objective
+
+
+# License
+
+Map-Factory uses a friendly license - the Apache 2.0 license:
+
     Copyright 2015 Universe Factory
 
     Licensed under the Apache License, Version 2.0 (the "License");
